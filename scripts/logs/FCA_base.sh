@@ -1,0 +1,1 @@
+mamba create -n FCA_base -c conda-forge -c bioconda -c defaults -c conda-forge -c bioconda -c defaults anndata=0.7.5 cellrank fa2 harmonypy=0.0.5 matplotlib numpy numpy_groupies pandas plotnine scanpy=1.7.0 scikit-learn scvelo seaborn umap-learn=0.5.1 h5py=2.10.0 adjustText=0.7.3 igraph=0.10.2 leidenalg=0.9.0 texttable=1.6.4 scirpy 
