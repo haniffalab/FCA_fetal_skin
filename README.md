@@ -36,17 +36,7 @@ This section is intended to list the frameworks and tools you're using to develo
 
 Any tools or versions of languages needed to run code. For example specific Python or Node versions. Minimum hardware requirements also go here.
 
-### Installation
-
-How to build or install the applcation.
-
-### Running Locally
-
-How to run the application on your local system.
-
-### Running Tests
-
-How to run tests on your local system.
+Folders contain scripts relating to analysis of single cell RNA-seq data and Visium spatial transcriptomic data. The scRNA-seq folder is split into scripts relating to data analysis (e.g. quality control and annotations) and to those producing the final figures in the manuscript. Scripts in the panel subdirectories produced both main and supplementary figures and are labelled based on type of analysis performed.
 
 ## Usage
 
