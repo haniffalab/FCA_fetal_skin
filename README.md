@@ -10,7 +10,7 @@ A template repo for the standard RSE project
 ## About
 
 Prenatal human skin morphogenesis is regulated by crosstalk between immune and non-immune cells.
-Further details/manuscript.
+Further details/abstract to be put here.
 
 ### Project Team
 Dr L. Ipsum, Newcastle University  ([lorem.ipsum@newcastle.ac.uk](mailto:lorem.ipsum@newcastle.ac.uk))  
