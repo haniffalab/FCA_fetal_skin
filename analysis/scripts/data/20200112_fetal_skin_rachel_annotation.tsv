@@ -1,0 +1,84 @@
+category	clustering	cluster_id	cluster_annot
+stroma	leiden_hm_r0_4	0	Fibroblast
+stroma	leiden_hm_r0_4	1	Fibroblast
+stroma	leiden_hm_r0_4	2	Fibroblast
+stroma	leiden_hm_r0_4	3	Fibroblast
+stroma	leiden_hm_r0_4	5	Fibroblast
+stroma	leiden_hm_r0_4	7	Fibroblast
+stroma	leiden_hm_r0_4	9	Fibroblast
+stroma	leiden_hm_r0_4	10	Fibroblast
+stroma	leiden_hm_r0_4	12	Fibroblast
+stroma	leiden_hm_r0_4	15	Fibroblast
+stroma	leiden_hm_r0_4	11	Muscle/myofibroblast
+stroma	leiden_hm_r0_4	13	Muscle/myofibroblast
+stroma	leiden_hm_r0_4	4	Smooth muscle/pericyte
+stroma	leiden_hm_r0_4	6	MSC
+stroma	leiden_hm_r0_4	8	Schwann cells
+stroma	leiden_hm_r0_4	14	Adipocyte
+stroma	leiden_hm_r0_4	16	remove (single donor)
+stroma	leiden_hm_r0_4	17	Unknown
+stroma	leiden_hm_r0_4	18	Unknown
+stroma	leiden_hm_r0_4	19	remove (single donor)
+stroma	leiden_hm_r0_4	20	remove (single donor)
+myeloid	leiden_hm_r0_4	0	Macrophage
+myeloid	leiden_hm_r0_4	3	Macrophage
+myeloid	leiden_hm_r0_4	7	Macrophage
+myeloid	leiden_hm_r0_4	5	CD16 myeloid
+myeloid	leiden_hm_r0_4	1	Monocyte
+myeloid	leiden_hm_r0_4	9	Neut-myeloid precursor
+myeloid	leiden_hm_r0_4	8	DC1
+myeloid	leiden_hm_r0_4	2	DC2
+myeloid	leiden_hm_r0_4	11	LC
+myeloid	leiden_hm_r0_4	4	remove (fibroblast doublet)
+myeloid	leiden_hm_r0_4	6	remove (lymphoid doublet)
+myeloid	leiden_hm_r0_4	10	remove (B cell doublet)
+lymphoid_T_NK	leiden_hm_r0_4_split	7,0	MLP
+lymphoid_T_NK	leiden_hm_r0_4_split	0	NK
+lymphoid_T_NK	leiden_hm_r0_4_split	5	NK T
+lymphoid_T_NK	leiden_hm_r0_4_split	1	CD4 T cell
+lymphoid_T_NK	leiden_hm_r0_4_split	3	CD8 T cell
+lymphoid_T_NK	leiden_hm_r0_4_split	4	Treg
+lymphoid_T_NK	leiden_hm_r0_4_split	2	LTi/ILC3
+lymphoid_T_NK	leiden_hm_r0_4_split	6	ILC2
+lymphoid_T_NK	leiden_hm_r0_4_split	7,1	remove (doublet)
+lymphoid_T_NK	leiden_hm_r0_4_split	7,2	remove (doublet)
+lymphoid_T_NK	leiden_hm_r0_4_split	7,3	remove (doublet)
+lymphoid_T_NK	leiden_hm_r0_4_split	8	remove (fibroblast)
+endothelium	leiden_hm_r0_2	0	Vascular
+endothelium	leiden_hm_r0_2	1	Vascular
+endothelium	leiden_hm_r0_2	3	Vascular
+endothelium	leiden_hm_r0_2	5	Vascular
+endothelium	leiden_hm_r0_2	2	Lymphatic
+endothelium	leiden_hm_r0_2	6	Unknown
+endothelium	leiden_hm_r0_2	4	remove (doublet)
+endothelium	leiden_hm_r0_2	7	remove (smooth muscle/pericyte)
+lymphoid_B	leiden_hm_r0_3	2	Pre to Pro B cell
+lymphoid_B	leiden_hm_r0_3	3	Pre B cell
+lymphoid_B	leiden_hm_r0_3	0	B cell
+lymphoid_B	leiden_hm_r0_3	1	pDC
+lymphoid_B	leiden_hm_r0_3	4	remove (T cell doublet)
+lymphoid_B	leiden_hm_r0_3	5	remove (IGHV4 high)
+lymphoid_B	leiden_hm_r0_3	6	remove (macrophage doublet)
+lymphoid_B	leiden_hm_r0_3	7	remove (fibroblast doublet)
+mast_cells	leiden_hm_r0_1	1	MEMP
+mast_cells	leiden_hm_r0_1	2	Megakaryocyte
+mast_cells	leiden_hm_r0_1	0	Mast cell
+mast_cells	leiden_hm_r0_1	3	Eosinophil
+mast_cells	leiden_hm_r0_1	4	remove
+keratinocytes	leiden_hm_r0_2	3	Periderm
+keratinocytes	leiden_hm_r0_2	0	Basal KC
+keratinocytes	leiden_hm_r0_2	1	Basal KC
+keratinocytes	leiden_hm_r0_2	4	KC stem cell
+keratinocytes	leiden_hm_r0_2	5	Suprabasal cell
+keratinocytes	leiden_hm_r0_2	2	remove (fibroblast)
+keratinocytes	leiden_hm_r0_2	6	remove (Schwann cell)
+erythroid	leiden_hm_r0_2	1	YS Erythroid
+erythroid	leiden_hm_r0_2	3	Early Erythroid I
+erythroid	leiden_hm_r0_2	2	Early Erythroid II
+erythroid	leiden_hm_r0_2	0	Mid Erythroid
+erythroid	leiden_hm_r0_2	6	Mid Erythroid
+erythroid	leiden_hm_r0_2	5	HBA Erythroid
+erythroid	leiden_hm_r0_2	4	remove (fibroblast doublet)
+melanocytes	leiden_hm_r0_1	0	Melanocyte
+melanocytes	leiden_hm_r0_1	1	Melanoblast
+melanocytes	leiden_hm_r0_1	2	remove (fibroblast)
