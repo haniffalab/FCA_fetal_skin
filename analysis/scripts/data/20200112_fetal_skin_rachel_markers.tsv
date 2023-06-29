@@ -1,0 +1,132 @@
+category	clustering	cluster_name	markers
+stroma	leiden_hm_r0_4	Fibroblast	POSTN
+stroma	leiden_hm_r0_4	Fibroblast	PDGFRA
+stroma	leiden_hm_r0_4	Fibroblast	DCN
+stroma	leiden_hm_r0_4	Muscle/myofibroblast	DES
+stroma	leiden_hm_r0_4	Muscle/myofibroblast	SGCA
+stroma	leiden_hm_r0_4	Muscle/myofibroblast	MYF5
+stroma	leiden_hm_r0_4	Smooth muscle/pericyte	ACTA2
+stroma	leiden_hm_r0_4	Smooth muscle/pericyte	RGS5
+stroma	leiden_hm_r0_4	Smooth muscle/pericyte	TAGLN
+stroma	leiden_hm_r0_4	MSC	CYTL1
+stroma	leiden_hm_r0_4	MSC	SOX2
+stroma	leiden_hm_r0_4	MSC	BMP7
+stroma	leiden_hm_r0_4	Schwann cell	MPZ
+stroma	leiden_hm_r0_4	Schwann cell	GFRA3
+stroma	leiden_hm_r0_4	Schwann cell	S100B
+stroma	leiden_hm_r0_4	Adipocyte	LPL
+stroma	leiden_hm_r0_4	Adipocyte	FABP4
+stroma	leiden_hm_r0_4	Adipocyte	PPARG
+myeloid	leiden_hm_r0_4	Macrophage	F13A1
+myeloid	leiden_hm_r0_4	Macrophage	RNASE1
+myeloid	leiden_hm_r0_4	Macrophage	C1QA
+myeloid	leiden_hm_r0_4	CD16 myeloid	FCGR3A
+myeloid	leiden_hm_r0_4	CD16 myeloid	C3
+myeloid	leiden_hm_r0_4	CD16 myeloid	CX3CR1
+myeloid	leiden_hm_r0_4	Monocyte	S100A9
+myeloid	leiden_hm_r0_4	Monocyte	LYZ
+myeloid	leiden_hm_r0_4	Monocyte	CD14
+myeloid	leiden_hm_r0_4	Neut-myeloid precursor	MPO
+myeloid	leiden_hm_r0_4	Neut-myeloid precursor	AZU1
+myeloid	leiden_hm_r0_4	Neut-myeloid precursor	HP
+myeloid	leiden_hm_r0_4	DC1	CLEC9A
+myeloid	leiden_hm_r0_4	DC1	XCR1
+myeloid	leiden_hm_r0_4	DC1	IRF8
+myeloid	leiden_hm_r0_4	DC2	CD1C
+myeloid	leiden_hm_r0_4	DC2	CLEC10A
+myeloid	leiden_hm_r0_4	DC2	FCER1A
+myeloid	leiden_hm_r0_4	LC	CD207
+myeloid	leiden_hm_r0_4	LC	CD1E
+myeloid	leiden_hm_r0_4	LC	CD1A
+lymphoid_T_NK	leiden_hm_r0_4_split	MLP	PRSS57
+lymphoid_T_NK	leiden_hm_r0_4_split	MLP	JCHAIN
+lymphoid_T_NK	leiden_hm_r0_4_split	MLP	CD7
+lymphoid_T_NK	leiden_hm_r0_4_split	NK	KLRD1
+lymphoid_T_NK	leiden_hm_r0_4_split	NK	GZMA
+lymphoid_T_NK	leiden_hm_r0_4_split	NK	FCGR3A
+lymphoid_T_NK	leiden_hm_r0_4_split	NK	NKG7
+lymphoid_T_NK	leiden_hm_r0_4_split	NK	PRF1
+lymphoid_T_NK	leiden_hm_r0_4_split	NK	IFNG
+lymphoid_T_NK	leiden_hm_r0_4_split	NK T	CD2
+lymphoid_T_NK	leiden_hm_r0_4_split	NK T	CD5
+lymphoid_T_NK	leiden_hm_r0_4_split	NK T	GZMM
+lymphoid_T_NK	leiden_hm_r0_4_split	NK T	TRGC1
+lymphoid_T_NK	leiden_hm_r0_4_split	NK T	TRDC
+lymphoid_T_NK	leiden_hm_r0_4_split	CD4 T cell	CCR7
+lymphoid_T_NK	leiden_hm_r0_4_split	CD4 T cell	TRAC
+lymphoid_T_NK	leiden_hm_r0_4_split	CD4 T cell	TRBC2
+lymphoid_T_NK	leiden_hm_r0_4_split	CD4 T cell	CD2
+lymphoid_T_NK	leiden_hm_r0_4_split	CD4 T cell	CD4
+lymphoid_T_NK	leiden_hm_r0_4_split	CD4 T cell	CD40LG
+lymphoid_T_NK	leiden_hm_r0_4_split	CD8 T cell	CD8A
+lymphoid_T_NK	leiden_hm_r0_4_split	CD8 T cell	CD8B
+lymphoid_T_NK	leiden_hm_r0_4_split	Treg	FOXP3
+lymphoid_T_NK	leiden_hm_r0_4_split	Treg	TIGIT
+lymphoid_T_NK	leiden_hm_r0_4_split	LTi/ILC3	IL7R
+lymphoid_T_NK	leiden_hm_r0_4_split	LTi/ILC3	KLRB1
+lymphoid_T_NK	leiden_hm_r0_4_split	ILC2	KIT
+lymphoid_T_NK	leiden_hm_r0_4_split	ILC2	RORC
+lymphoid_T_NK	leiden_hm_r0_4_split	ILC2	CCR6
+lymphoid_T_NK	leiden_hm_r0_4_split	ILC2	PTGDR2
+endothelium	leiden_hm_r0_2		PECAM1
+endothelium	leiden_hm_r0_2		KDR
+endothelium	leiden_hm_r0_2		BCAM
+endothelium	leiden_hm_r0_2	Vascular	ESAM
+endothelium	leiden_hm_r0_2	Vascular	FLT1
+endothelium	leiden_hm_r0_2	Vascular	ACKR1
+endothelium	leiden_hm_r0_2	Lymphatic	LYVE1
+endothelium	leiden_hm_r0_2	Lymphatic	FLT4
+endothelium	leiden_hm_r0_2	Lymphatic	CCL21
+endothelium	leiden_hm_r0_2		CDH2
+lymphoid_B	leiden_hm_r0_3	Pre Pro B cell	IL7R
+lymphoid_B	leiden_hm_r0_3	Pre Pro B cell	PRSS57
+lymphoid_B	leiden_hm_r0_3	Pre Pro B cell	JCHAIN
+lymphoid_B	leiden_hm_r0_3	Pro B cell	LTB
+lymphoid_B	leiden_hm_r0_3	Pro B cell	MME
+lymphoid_B	leiden_hm_r0_3	Pro B cell	DNTT
+lymphoid_B	leiden_hm_r0_3	Pre B cell	IGLL1
+lymphoid_B	leiden_hm_r0_3	Pre B cell	CD19
+lymphoid_B	leiden_hm_r0_3	Pre B cell	RAG1
+lymphoid_B	leiden_hm_r0_3	Pre B cell	RAG2
+lymphoid_B	leiden_hm_r0_3	B cell	CD79A
+lymphoid_B	leiden_hm_r0_3	B cell	MS4A1
+lymphoid_B	leiden_hm_r0_3	B cell	IGHM
+lymphoid_B	leiden_hm_r0_3	B cell	IGHD
+lymphoid_B	leiden_hm_r0_3	pDC	IL3RA
+lymphoid_B	leiden_hm_r0_3	pDC	IRF7
+lymphoid_B	leiden_hm_r0_3	pDC	GZMB
+mast_cells	leiden_hm_r0_1	MEMP	CD34
+mast_cells	leiden_hm_r0_1	MEMP	GATA2
+mast_cells	leiden_hm_r0_1	MEMP	GATA1
+mast_cells	leiden_hm_r0_1	Megakaryocyte	ITGA2B
+mast_cells	leiden_hm_r0_1	Megakaryocyte	PF4
+mast_cells	leiden_hm_r0_1	Megakaryocyte	GP9
+mast_cells	leiden_hm_r0_1	Mast cell	KIT
+mast_cells	leiden_hm_r0_1	Mast cell	TPSAB1
+mast_cells	leiden_hm_r0_1	Mast cell	CAPG
+mast_cells	leiden_hm_r0_1	Eosinophil	NCF1
+mast_cells	leiden_hm_r0_1	Eosinophil	CLC
+mast_cells	leiden_hm_r0_1	Eosinophil	IL5RA
+keratinocytes	leiden_hm_r0_2	Periderm	KRT4
+keratinocytes	leiden_hm_r0_2	Periderm	KRT19
+keratinocytes	leiden_hm_r0_2	Periderm	KRT18
+keratinocytes	leiden_hm_r0_2	Basal KC	KRT14
+keratinocytes	leiden_hm_r0_2	Basal KC	KRT15
+keratinocytes	leiden_hm_r0_2	Basal KC	MME
+keratinocytes	leiden_hm_r0_2	KC stem cell	SOX6
+keratinocytes	leiden_hm_r0_2	Suprabasal cell	KRT1
+keratinocytes	leiden_hm_r0_2	Suprabasal cell	KRT10
+erythroid	leiden_hm_r0_2	YS Erythroid	HBE1
+erythroid	leiden_hm_r0_2	YS Erythroid	HBZ
+erythroid	leiden_hm_r0_2	Early Erythroid I	GATA1
+erythroid	leiden_hm_r0_2	Early Erythroid II	KLF1
+erythroid	leiden_hm_r0_2	Early Erythroid II	GYPA
+erythroid	leiden_hm_r0_2	Mid Erythroid	HBB
+erythroid	leiden_hm_r0_2	Mid Erythroid	HBG2
+erythroid	leiden_hm_r0_2	HBA Erythroid	HBA1
+erythroid	leiden_hm_r0_2	HBA Erythroid	HBA2
+melanocytes	leiden_hm_r0_1	Melanocyte	MLANA
+melanocytes	leiden_hm_r0_1	Melanocyte	KIT
+melanocytes	leiden_hm_r0_1	Melanocyte	MC1R
+melanocytes	leiden_hm_r0_1	Melanocyte	TYR
+melanocytes	leiden_hm_r0_1	Melanoblast	EFHD1

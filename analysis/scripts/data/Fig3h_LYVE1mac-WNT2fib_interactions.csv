@@ -1,0 +1,7 @@
+gene_pair,celltype_pair,mean,p,padj,Interactions to show
+IGF1|IGF1R,LYVE1++ macrophage|WNT2+ fibroblast,0.31,0,0,IGF1|IGF1R
+PDGFB|PDGFRB,LYVE1++ macrophage|WNT2+ fibroblast,0.306,0,0,PDGFB|PDGFRB
+PDGFB|PDGFRA,LYVE1++ macrophage|WNT2+ fibroblast,0.438,0,0,PDGFB|PDGFRA
+GRN|EGFR,LYVE1++ macrophage|WNT2+ fibroblast,0.702,0,0,GRN|EGFR
+PDGFC|PDGFRA,LYVE1++ macrophage|WNT2+ fibroblast,0.403,0,0,PDGFC|PDGFRA
+CSF1|CSF1R,WNT2+ fibroblast|LYVE1++ macrophage,0.945,0,0,CSF1|CSF1R

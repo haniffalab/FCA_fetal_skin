@@ -1,7 +1,0 @@
-gene_pair,celltype_pair,mean,p,padj,Interactions to show
-CXCL12|DPP4,Pre-dermal condensate|ILC2,1.024,0,0,CXCL12|DPP4
-CXCL2|DPP4,Pre-dermal condensate|ILC2,0.307,0,0,CXCL2|DPP4
-CXCL12|CXCR4,Pre-dermal condensate|ILC2,1.754,0,0,CXCL12|CXCR4
-CXCL12|DPP4,Pre-dermal condensate|LTi,0.987,0,0,
-CXCL2|DPP4,Pre-dermal condensate|LTi,0.27,0.006,0.448125,
-CXCL12|CXCR4,Pre-dermal condensate|LTi,1.611,0,0,

@@ -1,0 +1,6 @@
+# sb
+NiGdrive
+*.swp
+*.h5ad
+**/*.ipynb_checkpoints/
+*.rds
