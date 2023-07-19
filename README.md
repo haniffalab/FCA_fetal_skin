@@ -13,20 +13,21 @@ This repository contains the data processing and analysis scripts for fetal skin
 Processed data can be accessed on our web portal at https://developmental.cellatlas.io/fetal-skin.
 
 ### Raw sequencing data 
-Raw sequencing libraries are deposited in [ArrayExpress](https://www.ebi.ac.uk/biostudies/arrayexpress/)
+Raw sequencing libraries for this study are deposited in [ArrayExpress](https://www.ebi.ac.uk/biostudies/arrayexpress/)
 
-- scRNA-seq libraries: raw data for libraries generated for this study are deposited under accession [E-MTAB-13071](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-13071/). Raw data for libraries published in previous studies can be found in the following data repositories: 
-    - [ArrayExpress E-MTAB-11343](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-11343)
-    - [ArrayExpress E-MTAB-7407](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-7407) 
-- TCR-seq data:
+- scRNA-seq libraries: 
+    - [ArrayExpress E-MTAB-13071](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-13071)
+    - [ArrayExpress E-MTAB-11343](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-11343) ([Suo, Dann et al. 2022](https://doi.org/10.1126/science.abo0510))
+    - [ArrayExpress E-MTAB-7407](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-7407) ([Popescu et al. 2019](https://doi.org/10.1038/s41586-019-1652-y))
+- TCR-seq libraries:
     - [ArrayExpress E-MTAB-13065](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-13065/)
 - Visium libraries:
-    - [Limb data E-MTAB-11341](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11341/) 
-    - [Facial and abdominal data E-MTAB-13024](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-13024/) 
-- Skin organoid data:
-    - [GEO GSE147206](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147206) 
-    - [GEO GSE188936](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188936) 
-    - [GEO GSE231607](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231607) 
+    - Limb data: [E-MTAB-11341](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11341/) ([Suo, Dann et al. 2022](https://doi.org/10.1126/science.abo0510))
+    - Facial and abdominal data: [E-MTAB-13024](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-13024/) 
+- Skin organoid libraries:
+    - [Gene Expression Omnibus GSE147206](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147206) ([Lee, Rabbani, Gao et al. 2020](https://doi.org/10.1038/s41586-020-2352-3))
+    - [Gene Expression Omnibus GSE188936](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188936) ([Lee, Rabbani, Gao et al. 2020](https://doi.org/10.1038/s41586-020-2352-3))
+    - [Gene Expression Omnibus GSE231607](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231607) ([Lee, Rabbani, Gao et al. 2020](https://doi.org/10.1038/s41586-020-2352-3))
 
 ## License
 
