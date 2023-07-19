@@ -31,16 +31,7 @@ Raw sequencing libraries for this study are deposited in [ArrayExpress](https://
 The code in this repository is licensed under the [GNU Affero General Public License v3.0](LICENSE)
 
 ## Citation
-Please cite this work if you use the code:
-
-```
-@article{xxx2023paper,
-  title={Title},
-  author={Author},
-  journal={arXiv},
-  year={2023}
-}
-```
+If you use this repo, please [cite it](CITATION)
 
 ## Contact, collaboration and contributions
-For any questions, please post an [issue](https://github.com/haniffalab/FCA_fetal_skin/issues) in this repository or contact by email mh32<at>sanger.ac.uk.
+For any questions, please post an [issue](https://github.com/haniffalab/FCA_fetal_skin/issues) in this repository or contact by email mh32[at]sanger.ac.uk.
