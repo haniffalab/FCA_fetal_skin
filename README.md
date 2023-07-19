@@ -1,9 +1,7 @@
 # Prenatal human skin morphogenesis is regulated by crosstalk between immune and non-immune cells
-
 This repository contains the data processing and analysis scripts for fetal skin study.
 
 ## Repository contents
-
 * [`analysis`](https://github.com/haniffalab/FCA_fetal_skin/tree/dev/analysis) contains scripts and notebooks used for data processing of raw sequencing data.
 * [`figures`](https://github.com/haniffalab/FCA_fetal_skin/tree/dev/figures) contains scripts and notebooks used for figure generation.
 
@@ -30,11 +28,9 @@ Raw sequencing libraries for this study are deposited in [ArrayExpress](https://
     - [Gene Expression Omnibus GSE231607](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231607) ([Lee, Rabbani, Gao et al. 2020](https://doi.org/10.1038/s41586-020-2352-3))
 
 ## License
-
 The code in this repository is licensed under the [GNU Affero General Public License v3.0](LICENSE)
 
 ## Citation
-
 Please cite this work if you use the code:
 
 ```
@@ -46,10 +42,5 @@ Please cite this work if you use the code:
 }
 ```
 
-## Funding
-
-Funding: We acknowledge funding from the Wellcome Human Developmental Biology Initiative (WT215116/Z/18/Z). M.H. is funded by Wellcome (WT107931/Z/15/Z), The Lister Institute for Preventive Medicine and NIHR and Newcastle Biomedical Research Centre. S.A.T. is funded by Wellcome (WT206194) and the ERC Consolidator Grant ThDEFINE. L.J. is funded by a Newcastle Health Innovation Partners Lectureship. N.H.G. is funded by a MRC Clinical Research Training Fellowship (MR/W015625/1). B.O. is funded by a Wellcome 4Ward North Clinical Training Fellowship.
-
 ## Contact, collaboration and contributions
-
 For any questions, please post an [issue](https://github.com/haniffalab/FCA_fetal_skin/issues) in this repository or contact by email mh32<at>sanger.ac.uk.
