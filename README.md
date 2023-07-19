@@ -1,14 +1,14 @@
 # Prenatal human skin morphogenesis is regulated by crosstalk between immune and non-immune cells
-This repository contains the data processing and analysis scripts for fetal skin study.
+This repository contains the data processing and analysis scripts for fetal skin study
 
 ## Repository contents
-* [`analysis`](https://github.com/haniffalab/FCA_fetal_skin/tree/dev/analysis) contains scripts and notebooks used for data processing of raw sequencing data.
-* [`figures`](https://github.com/haniffalab/FCA_fetal_skin/tree/dev/figures) contains scripts and notebooks used for figure generation.
+* [`analysis`](https://github.com/haniffalab/FCA_fetal_skin/tree/dev/analysis) contains scripts and notebooks used for data processing of raw sequencing data
+* [`figures`](https://github.com/haniffalab/FCA_fetal_skin/tree/dev/figures) contains scripts and notebooks used for figure generation
 
 ## Data Availability
 
 ### Web portal
-Processed data can be accessed on our web portal at https://developmental.cellatlas.io/fetal-skin.
+Processed data can be accessed on our web portal at https://developmental.cellatlas.io/fetal-skin
 
 ### Raw sequencing data 
 Raw sequencing libraries for this study are deposited in [ArrayExpress](https://www.ebi.ac.uk/biostudies/arrayexpress/)
@@ -34,4 +34,4 @@ The code in this repository is licensed under the [GNU Affero General Public Lic
 If you use this repo, please [cite it](CITATION)
 
 ## Contact, collaboration and contributions
-For any questions, please post an [issue](https://github.com/haniffalab/FCA_fetal_skin/issues) in this repository or contact by email mh32[at]sanger.ac.uk.
+For any questions, please post an [issue](https://github.com/haniffalab/FCA_fetal_skin/issues) in this repository or contact by email mh32[at]sanger.ac.uk
