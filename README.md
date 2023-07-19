@@ -1,63 +1,40 @@
-# FCA_fetal_skin
+# Prenatal human skin morphogenesis is regulated by crosstalk between immune and non-immune cells
 
-### IG_A1_V5_skin_vae_integrated_bayesian_SVM_deconvolver.ipynb
-- Prototype notebook containing the rationale and workflow for a bayesian optimised, probabilistic support vector machine with bayesian posterior probabilities of correspondence computed using observations derived from iterative hypergeometric sampling of the training data, and probabilistic outputs from the SVM. Priors are weighted by the reciprocal of celltype availability per donor.
+This repository contains the data processing and analysis scripts for fetal skin study.
 
+## Repository contents
 
-# Standard Project
-A template repo for the standard RSE project
+* [`analysis`](https://github.com/haniffalab/FCA_fetal_skin/tree/dev/analysis) contains scripts and notebooks used for data processing of raw sequencing data.
+* [`figures`](https://github.com/haniffalab/FCA_fetal_skin/tree/dev/figures) contains scripts and notebooks used for figure generation.
 
-## About
+## Data Availability
 
-Prenatal human skin morphogenesis is regulated by crosstalk between immune and non-immune cells.
-Further details/abstract to be put here.
+### Web portal
+Processed data can be accessed on our web portal at https://developmental.cellatlas.io/fetal-skin.
 
-### Project Team
-Dr L. Ipsum, Newcastle University  ([lorem.ipsum@newcastle.ac.uk](mailto:lorem.ipsum@newcastle.ac.uk))  
-Professor D. Sit Amet, XY University  ([d.sit.amet@newcastle.ac.uk](mailto:d.sit.amet@example.com))  
+### Raw sequencing data 
+Raw sequencing libraries are deposited in [ArrayExpress](https://www.ebi.ac.uk/biostudies/arrayexpress/)
 
-### RSE Contact
-C. Adipiscing  
-RSE Team  
-Newcastle University  
-([consectetur.adpiscing@newcastle.ac.uk](mailto:consectetur.adpiscing@newcastle.ac.uk))  
-
-## Built With
-
-This section is intended to list the frameworks and tools you're using to develop this software. Please link to the home page or documentatation in each case.
-
-[Framework 1](https://something.com)  
-[Framework 2](https://something.com)  
-[Framework 3](https://something.com)  
-
-## Getting Started
-
-### Prerequisites
-
-Any tools or versions of languages needed to run code. For example specific Python or Node versions. Minimum hardware requirements also go here.
-
-Folders contain scripts relating to analysis of single cell RNA-seq data and Visium spatial transcriptomic data. The scRNA-seq folder is split into scripts relating to data analysis (e.g. quality control and annotations) and to those producing the final figures in the manuscript. Scripts in the panel subdirectories produced both main and supplementary figures and are labelled based on type of analysis performed.
-
-## Usage
-
-Any links to production environment, video demos and screenshots.
-
-### Main Branch
-Protected and can only be pushed to via pull requests. Should be considered stable and a representation of production code.
-
-### Dev Branch
-Should be considered fragile, code should compile and run but features may be prone to errors.
-
-### Feature Branches
-A branch per feature being worked on.
-
-https://nvie.com/posts/a-successful-git-branching-model/
+- scRNA-seq libraries: raw data for libraries generated for this study are deposited under accession [E-MTAB-13071](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-13071/). Raw data for libraries published in previous studies can be found in the following data repositories: 
+    - [ArrayExpress E-MTAB-11343](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-11343)
+    - [ArrayExpress E-MTAB-7407](https://www.ebi.ac.uk/biostudies/arrayexpress/studies/E-MTAB-7407) 
+- TCR-seq data:
+    - [ArrayExpress E-MTAB-13065](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-13065/)
+- Visium libraries:
+    - [Limb data E-MTAB-11341](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-11341/) 
+    - [Facial and abdominal data E-MTAB-13024](https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-13024/) 
+- Skin organoid data:
+    - [GEO GSE147206](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE147206) 
+    - [GEO GSE188936](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE188936) 
+    - [GEO GSE231607](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE231607) 
 
 ## License
 
+The code in this repository is licensed under the [GNU Affero General Public License v3.0](LICENSE)
+
 ## Citation
 
-Please cite the associated papers for this work if you use this code:
+Please cite this work if you use the code:
 
 ```
 @article{xxx2023paper,
@@ -68,6 +45,10 @@ Please cite the associated papers for this work if you use this code:
 }
 ```
 
+## Funding
 
-## Acknowledgements
-This work was funded by a grant from the UK Research Councils, EPSRC grant ref. EP/L012345/1, “Example project title, please update”.
+Funding: We acknowledge funding from the Wellcome Human Developmental Biology Initiative (WT215116/Z/18/Z). M.H. is funded by Wellcome (WT107931/Z/15/Z), The Lister Institute for Preventive Medicine and NIHR and Newcastle Biomedical Research Centre. S.A.T. is funded by Wellcome (WT206194) and the ERC Consolidator Grant ThDEFINE. L.J. is funded by a Newcastle Health Innovation Partners Lectureship. N.H.G. is funded by a MRC Clinical Research Training Fellowship (MR/W015625/1). B.O. is funded by a Wellcome 4Ward North Clinical Training Fellowship.
+
+## Contact, collaboration and contributions
+
+For any questions, please post an [issue](https://github.com/haniffalab/FCA_fetal_skin/issues) in this repository or contact by email mh32<at>sanger.ac.uk.
