@@ -7,8 +7,12 @@ doi: 10.5281/zenodo.8164271
 authors:
   - family-names: "Gopee"
     given-names: "Hudaa"
+    orcid: "https://orcid.org/0000-0001-8507-5682"
   - family-names: "Olabi"
     given-names: "Bayanne"
+  - family-names: "Winheim"
+    given-names: "Elena"
+    orcid: "https://orcid.org/0000-0002-0364-662X"
   - family-names: "Mazin"
     given-names: "Pavel"
   - family-names: "Goh"
